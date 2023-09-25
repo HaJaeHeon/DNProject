@@ -18,4 +18,4 @@ tool : Unity / 2020.3.17f1
 
 
 # 빌드 
-[https://drive.google.com/drive/folders/1el6sk7JKl0brV_GOmAv1Ikia9TiTtM0f](https://drive.google.com/drive/folders/1eJsbtokeLnnaj1agb-z5QXCPlHaW0osb?usp=sharing)https://drive.google.com/drive/folders/1eJsbtokeLnnaj1agb-z5QXCPlHaW0osb?usp=sharing
+https://drive.google.com/drive/folders/14Mi-txG0ZmGaLP0x-aUI2E7Ls9Aq1WX_?usp=sharing
